@@ -1,0 +1,2 @@
+A program that takes a 4 digit number with atleast 2 distinct digits. The program performs the following routine on the number:
+Arrange the digits in ascending order, and then descending order (adding zeroes to fit it to a 4 digit number). Subtract the smaller number from the bigger number. Repeat this routine with the answer returned. Performing this routine will always cause you to reach a fixed number 6174, Kaprekars Constant.
